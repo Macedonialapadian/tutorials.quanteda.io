@@ -55,7 +55,7 @@ str(dat_eu)
 
 ### JSON
 
-You can also read JSON files (.json) downloaded from the Twititer stream API. [twitter.json](https://raw.githubusercontent.com/quanteda/tutorials.quanteda.io/master/content/data/twitter.json) is located in data directory of this tutorial package.
+You can also read JSON files (.json) downloaded from the Twitter stream API. [twitter.json](https://raw.githubusercontent.com/quanteda/tutorials.quanteda.io/master/content/data/twitter.json) is located in data directory of this tutorial package.
 
 
 ```r
